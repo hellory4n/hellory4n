@@ -1,10 +1,5 @@
 # Hi
 
-I'm too lazy to make my own readme format thing idk anyways
+Hi i'm hellory4n, i'm a programmer that uses programs that help me use programming languages to make programs
 
-- 🔭 I’m currently working on many completely useless projects cuz i don't have a life
-- 🌱 I’m currently learning stuff
-- 💬 Ask me about potatos
-- 📫 How to reach me: DM @hellory4n1 on twitter, i will probably take 2 years to reply :)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm an idiot
+Fun fact: I'm not using bluetooth right now.
