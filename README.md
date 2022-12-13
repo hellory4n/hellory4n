@@ -7,7 +7,7 @@
 
 🍔 "i'm lovin' it" - a mac user i think
 
-
+🇧🇷 you're going to brazil, we're not asking!
 
 ## the place where i put thousands of logos or something
 
