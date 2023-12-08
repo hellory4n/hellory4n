@@ -1,7 +1,7 @@
 <h1 align="center">hellory4n</h1>
 <h3 align="center">pro gamer</h3>
 
-🧑‍💻 i’m currently working on lelcubeOS
+🧑‍💻 i’m currently working on markisaOS
 
 ❓ i’m looking for help with how to write good code
 
